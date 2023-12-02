@@ -1,0 +1,13 @@
+#AskForRNG
+
+
+#Variables
+
+
+
+#Process
+
+
+
+
+#Output
