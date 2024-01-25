@@ -1,0 +1,14 @@
+import tkinter as tk
+
+# Create the main window
+root = tk.Tk()
+
+# Set the window title
+root.title("100% Accurate Number Guesser")
+
+# Set the window size
+root.geometry("400x300")
+
+# Run the Tkinter event loop
+root.mainloop()
+
